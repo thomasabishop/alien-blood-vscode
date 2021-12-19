@@ -1,0 +1,21 @@
+{
+  "name": "alien-blood",
+  "displayName": "alien-blood",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alien Blood ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Alien Blood -color-theme.json"
+      }
+    ]
+  }
+}
