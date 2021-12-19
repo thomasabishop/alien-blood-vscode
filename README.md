@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "alien-blood"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+![](images/alien-blood-banner.svg)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<p align="center"><b>A VS Code theme inspired by the terminal colour scheme.</b></p>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This is currently pre-release as is still being refined and improved. Feedback welcome.
 
-**Enjoy!**
+## Screenshots
