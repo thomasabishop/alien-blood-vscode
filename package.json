@@ -1,8 +1,22 @@
 {
   "name": "alien-blood",
-  "displayName": "alien-blood",
-  "description": "",
+  "displayName": "Alien Blood",
+  "description": "A VS Code theme based on the terminal colour scheme",
   "version": "0.0.1",
+  "icon": "/images/alien-blood-icon.png",
+  "galleryBanner": {
+    "color": "#0f1610",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Thomas Bishop",
+    "url": "https://www.thomas-bishop.co.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasabishop/alien-blood-vscode"
+  },
+  "homepage": "https://github.com/thomasabishop/alien-blood-vscode/blob/master/README.md",
   "engines": {
     "vscode": "^1.63.0"
   },
