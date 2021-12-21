@@ -1,8 +1,8 @@
 {
   "name": "alien-blood",
   "displayName": "Alien Blood",
-  "description": "A VS Code theme based on the terminal colour scheme",
-  "version": "0.1.2",
+  "description": "A VS Code theme inspired by the terminal colour scheme",
+  "version": "0.1.3",
   "publisher": "ThomasBishop",
   "icon": "images/alien-blood-icon.png",
   "galleryBanner": {
