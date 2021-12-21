@@ -1,21 +1,16 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
-## [0.1.0] - 2021-12-19
+## [0.1.3] - 2021-12-21
 
 ### Added
 
-- First pre-release
+- Version without bold and italics
+- Clearer screenshots
 
-## [0.1.1] - 2021-12-19
+### Changed
 
-### Added
-
-- Screenshots to readme (JavaScript, TypeScript, React, Angular)
+- Cleaner icon
+- Higher resolution readme banner
 
 ## [0.1.2] - 2021-12-20
 
@@ -33,3 +28,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Removed italicisation of function expression arrows as leads to broken ligature (if ligatures enabled). Will address similar breakages forthwith.
+
+## [0.1.1] - 2021-12-19
+
+### Added
+
+- Screenshots to readme (JavaScript, TypeScript, React, Angular)
+
+## [0.1.0] - 2021-12-19
+
+### Added
+
+- First pre-release
