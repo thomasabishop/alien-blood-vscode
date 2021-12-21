@@ -4,7 +4,7 @@
   "description": "A VS Code theme inspired by the terminal colour scheme",
   "version": "0.1.3",
   "publisher": "ThomasBishop",
-  "icon": "images/alien-blood-icon.png",
+  "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#0f1610",
     "theme": "dark"
