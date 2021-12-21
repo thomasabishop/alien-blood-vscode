@@ -1,4 +1,4 @@
-![](images/alien-blood-banner.png)
+![](images/banner.png)
 
 <p align="center"><b>A VS Code theme inspired by the terminal colour scheme.</b></p>
 
