@@ -5,5 +5,3 @@
 ## Screenshots
 
 ![](images/screenshots/typescript-closeup.png)
-
-![](images/screenshots/ui.png)
