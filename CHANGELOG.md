@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.4] - 2021-12-21
+
+### Changed
+
+- Remove ui screenshot
+
+### Fixed
+
+- Add variant to `package.json`
+
 ## [0.1.3] - 2021-12-21
 
 ### Added
