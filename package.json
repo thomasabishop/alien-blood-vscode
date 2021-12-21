@@ -30,6 +30,11 @@
         "label": "Alien Blood ",
         "uiTheme": "vs-dark",
         "path": "./themes/Alien Blood -color-theme.json"
+      },
+      {
+        "label": "Alien Blood - No bold or italics",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Alien Blood -color-theme-no-bold-italic.json"
       }
     ]
   }
