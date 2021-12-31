@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.5] - 2021-12-31
+
+### Changed
+
+- Restructure theme files' json to make edits easier.
+
 ## [0.1.4] - 2021-12-21
 
 ### Changed
