@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.1.6] - 2022-01-08
+
+### Changed
+
+- Status bar colour to brighter green
+- Status bar hover colour to brighter green
+- Status bar debugging mode to theme orange
+- Numerous tweaks to status bar hover and active states
+- Use theme white for menu items (from toolbar UI)
+
+### Fixed
+
+- Scrollbars are now partially transparent so that gutter annotations are visible at all times.
+
+### Added
+
+- Darker blue for object properties for better visual demarcation (previouly object variable name and properties were identical blue), TS and JS.
+- Inherited/extended classes to red
+- Async modifier on functions/ methods (JS and TS) tokenised to yellow for better visual demarcation
+- Active scrollbar colour
+
 ## [0.1.5] - 2021-12-31
 
 ### Changed
