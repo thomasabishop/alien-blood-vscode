@@ -5,3 +5,13 @@
 ## Screenshots
 
 ![](images/screenshots/typescript-closeup.png)
+
+<p align = "center">
+From v0.1.4
+</p>
+
+![](images/screenshots/0.1.6.png)
+
+<p align = "center">
+From v0.1.4
+</p>
