@@ -605,14 +605,13 @@
     {
       "name": "",
       "scope": ["storage.modifier.async.js"],
-      "settings": { "foreground": "#bde000" }
+      "settings": { "foreground": "#18e000" }
     },
     {
       "name": "",
       "scope": ["storage.modifier.async.ts"],
-      "settings": { "foreground": "#bde000" }
+      "settings": { "foreground": "#18e000" }
     },
-
     {
       "name": "",
       "scope": ["markup.italic"],
