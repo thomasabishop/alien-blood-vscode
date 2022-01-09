@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.8] - 2022-01-09
+
+### Changed
+
+- Async token back to green.
+
 ## [0.1.7] - 2022-01-09
 
 ### Changed
