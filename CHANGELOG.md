@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.7] - 2022-01-09
+
+### Changed
+
+- Status bar colour to more muted green (felt it was too bright and distracting)
+- Refinements to status bar hover and active states.
+
 ## [0.1.6] - 2022-01-08
 
 ### Changed
