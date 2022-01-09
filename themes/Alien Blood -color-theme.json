@@ -30,16 +30,14 @@
     "sideBar.background": "#000e07",
     "sideBar.foreground": "#637d75",
     "sideBarSectionHeader.background": "#0f1610",
-    "statusBar.background": "#2f7e25",
-    "statusBar.foreground": "#0f1610",
-    "statusBar.border": "#1d4125",
+    "statusBar.background": "#1d4125",
+    "statusBar.foreground": "#637d75",
     "statusBar.debuggingBackground": "#e08009",
-    "statusBar.debuggingBorder": "#e08009",
     "statusBar.debuggingForeground": "#fff",
-    "statusBarItem.hoverBackground": "#18e000",
-    "statusBarItem.activeBackground": "#73fa91",
-    "statusBarItem.prominentBackground": "#18e000",
-    "statusBarItem.prominentHoverBackground": "#73fa91",
+    "statusBarItem.hoverBackground": "#0f1610",
+    "statusBarItem.activeBackground": "#0f1610",
+    "statusBarItem.prominentBackground": "#112616",
+    "statusBarItem.prominentHoverBackground": "#112616",
     "statusBarItem.warningBackground": "#bde000",
     "statusBarItem.errorBackground": "#7f2b27",
     "list.hoverBackground": "#112616",
@@ -665,9 +663,20 @@
       "scope": ["markup.quote markup.bold string"],
       "settings": { "foreground": "#e08009" }
     },
+
+    {
+      "name": "",
+      "scope": ["variable.other.object.property.js"],
+      "settings": { "foreground": "#327f77" }
+    },
     {
       "name": "",
       "scope": ["variable.other.object.property.ts"],
+      "settings": { "foreground": "#327f77" }
+    },
+    {
+      "name": "",
+      "scope": ["variable.other.property.js"],
       "settings": { "foreground": "#2f6a7f" }
     },
     {
@@ -677,17 +686,12 @@
     },
     {
       "name": "",
-      "scope": ["variable.other.object.property.js"],
-      "settings": { "foreground": "#2f6a7f" }
-    },
-    {
-      "name": "",
-      "scope": ["variable.other.property.js"],
-      "settings": { "foreground": "#2f6a7f" }
-    },
-    {
-      "name": "",
       "scope": ["support.variable.property.js"],
+      "settings": { "foreground": "#2f6a7f" }
+    },
+    {
+      "name": "",
+      "scope": ["support.variable.property.ts"],
       "settings": { "foreground": "#2f6a7f" }
     },
     {
