@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.9] - 2022-01-15
+
+### Changed
+
+- Terminal background made consistent with other bottom panel backgrounds
+- Status bar debugging mode to dark yellow
+
+### Added
+
+- Editor line highlight broder
+- Word highlight background
+- Find match background
+
 ## [0.1.8] - 2022-01-09
 
 ### Changed
