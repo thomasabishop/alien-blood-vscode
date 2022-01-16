@@ -14,7 +14,7 @@
     "editorCursor.background": "#0f1610",
     "editorLineNumber.activeForeground": "#637d75",
     "editorLineNumber.foreground": "#1d4125",
-    "editor.selectionBackground": "#1d4125d8",
+    "editor.selectionBackground": "#1d412577",
     "editorWidget.background": "#000e07",
     "editorWidget.foreground": "#637d75",
     "editorWidget.border": "#1d4125",
@@ -113,7 +113,9 @@
     "editor.wordHighlightBackground": "#3c481260",
     "editor.wordHighlightStrongBackground": "#0058e050",
     "editor.findMatchBackground": "#be0c0370",
-    "editor.findMatchHighlightBackground": "#18e00020"
+    "editor.findMatchHighlightBackground": "#18e00020",
+    "editor.snippetFinalTabstopHighlightBackground": "#1d412544",
+    "editor.snippetTabstopHighlightBackground": "#1d412544"
   },
   "tokenColors": [
     {
@@ -728,7 +730,7 @@
     {
       "name": "",
       "scope": ["comment"],
-      "settings": { "foreground": "#1d4125" }
+      "settings": { "foreground": "#5a8055ad" }
     },
     {
       "name": "",

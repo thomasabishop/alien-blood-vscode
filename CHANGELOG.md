@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.11] - 2022-01-16
+
+### Fixed
+
+- Add punctuation.definition colour for comment (forgot)
+
+### Changed
+
+- Add colours for tokens `editor.snippetFinalTabstopHighlightBackground`, `editor.snippetTabstopHighlightBackground`
+
 ## [0.1.10] - 2022-01-16
 
 ### Fixed
