@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.10] - 2022-01-16
+
+### Fixed
+
+- Selected comments are now more readable
+
+### Changed
+
+- Comment token color
+- Reduced opacity of selection color
+
 ## [0.1.9] - 2022-01-15
 
 ### Changed

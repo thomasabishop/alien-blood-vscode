@@ -14,7 +14,7 @@
     "editorCursor.background": "#0f1610",
     "editorLineNumber.activeForeground": "#637d75",
     "editorLineNumber.foreground": "#1d4125",
-    "editor.selectionBackground": "#1d4125",
+    "editor.selectionBackground": "#1d4125d8",
     "editorWidget.background": "#000e07",
     "editorWidget.foreground": "#637d75",
     "editorWidget.border": "#1d4125",
@@ -678,7 +678,7 @@
     {
       "name": "",
       "scope": ["punctuation.definition.comment"],
-      "settings": { "foreground": "#1d4125" }
+      "settings": { "foreground": "#5a8055ad" }
     },
     {
       "name": "",
