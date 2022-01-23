@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.1.12] - 2022-01-23
+
+### Changed
+
+- `editor.findMatchBackground`
+- `editor.wordHighlightStrongBackground`
+
+### Added
+
+- Completed colours for debugging mode:
+  - Debug toolbar background and forground
+  - Debug icon colors
+  - Debug token expressions
+
 ## [0.1.11] - 2022-01-16
 
 ### Fixed
