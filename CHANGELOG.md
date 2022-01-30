@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.1.13] - 2022-01-30
+
+### Changed
+
+- `debugToolbar.border` to muted dark
+- `debugConsole.infoForeground` to muted green
+- Removed current line border and instead used background alpha shade
+- CSS/ SCSS/ LESS: class color to red (orange was too in yer face)
+
+### Added
+
+- Themed widget shadow (as base colour)
+- Themed all minimap highlight colours
+
 ## [0.1.12] - 2022-01-23
 
 ### Changed
