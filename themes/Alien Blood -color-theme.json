@@ -184,7 +184,6 @@
         "storage.type.function",
         "storage.type.class",
         "markup.italic",
-        "entity.other.attribute-name.class",
         "markup.bold",
         "markup.bold string",
         "comment",
@@ -669,7 +668,7 @@
     {
       "name": "",
       "scope": ["entity.other.attribute-name.class"],
-      "settings": { "foreground": "#7f2b27" }
+      "settings": { "foreground": "#2f6a7f" }
     },
     {
       "name": "",

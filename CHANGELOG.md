@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.14] - 2022-02-06
+
+### Changed
+
+- CSS class names to blue
+
 ## [0.1.13] - 2022-01-30
 
 ### Changed
