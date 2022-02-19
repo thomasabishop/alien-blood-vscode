@@ -155,7 +155,10 @@
     "minimap.selectionOccurrenceHighlight": "#bde00070",
     "minimapGutter.addedBackground": "#e08009",
     "minimapGutter.modifiedBackground": "#73fa9190",
-    "minimapGutter.deletedBackground": "#3c4812"
+    "minimapGutter.deletedBackground": "#3c4812",
+    "diffEditor.insertedTextBackground": "#18e00010",
+    "diffEditor.removedTextBackground": "#7f2b2735",
+    "diffEditor.diagonalFill": "#647d7550"
   },
   "tokenColors": [
     {

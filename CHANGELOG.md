@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.15] - 2022-02-19
+
+### Added
+
+- Themed Git diff view
+
 ## [0.1.14] - 2022-02-06
 
 ### Changed
