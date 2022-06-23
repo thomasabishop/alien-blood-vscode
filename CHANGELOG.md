@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.1] - 2022-06-22
+
+### Added
+- Menu horizontal separator now theme colour
+- Menubar foreground color no longer #fff and now theme white
+- No folder status bar same as default colours.
+### Changed
+- Terminal background same colour as main editor
+- Remove border from status bar
+
 ## [0.1.15] - 2022-02-19
 
 ### Added

@@ -1,11 +1,11 @@
-![](images/banner.png)
+# Alien Blood
 
-<p align="center"><b>A VS Code theme inspired by the terminal colour scheme.</b></p>
+<p>A VS Code theme inspired by the terminal colour scheme.</p>
 
 ## Screenshots
 
-![](images/screenshots/typescript-closeup.png)
+![](images/screenshots/typescript.png)
 
-<p align = "center">
-From v0.1.4
-</p>
+![](images/screenshots/react.png)
+
+![](images/screenshots/markdown.png)
