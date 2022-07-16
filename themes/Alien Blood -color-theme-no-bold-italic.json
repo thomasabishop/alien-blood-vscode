@@ -620,7 +620,7 @@
     {
       "name": "",
       "scope": ["markup.italic"],
-      "settings": { "foreground": "#e08009" }
+      "settings": { "foreground": "#2f6a7f" }
     },
     {
       "name": "",
@@ -630,7 +630,7 @@
     {
       "name": "",
       "scope": ["markup.bold"],
-      "settings": { "foreground": "#e08009" }
+      "settings": { "foreground": "#327f77" }
     },
     {
       "name": "",
