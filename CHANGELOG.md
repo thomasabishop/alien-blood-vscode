@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.2.0] - 2022-07-17
+
+## Changed 
+- Numerous improvements to markdown colour tokens
+- Make filename Git modified/untracked colours more muted
 ## [1.0.1] - 2022-06-22
 
 ### Added
