@@ -725,7 +725,7 @@
     {
       "name": "",
       "scope": ["markup.underline"],
-      "settings": { "foreground": "#2f7e25" }
+      "settings": { "foreground": "#00e0c4bb" }
     },
     {
       "name": "",
@@ -735,7 +735,7 @@
     {
       "name": "",
       "scope": ["string.other.link.title.markdown"],
-      "settings": { "foreground": "#2f7e25" }
+      "settings": { "foreground": "#00e0c4bb" }
     },
     {
       "name": "",
@@ -755,12 +755,17 @@
     {
       "name": "",
       "scope": ["markup.inline.raw.string.markdown"],
-      "settings": { "foreground": "#717f24" }
+      "settings": { "foreground": "#e08009bb" }
     },
     {
       "name": "",
       "scope": ["markup.quote.markdown"],
       "settings": { "foreground": "#73fa91bb" }
+    },
+    {
+      "name": "",
+      "scope": ["string.unquoted.plain.out.yaml"],
+      "settings": { "foreground": "#717f24" }
     }
   ]
 }
