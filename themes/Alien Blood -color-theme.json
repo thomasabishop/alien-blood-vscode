@@ -670,7 +670,7 @@
     {
       "name": "",
       "scope": ["markup.italic"],
-      "settings": { "foreground": "#327f77" }
+      "settings": { "foreground": "#bde000bb" }
     },
     {
       "name": "",
@@ -680,42 +680,42 @@
     {
       "name": "",
       "scope": ["markup.bold"],
-      "settings": { "foreground": "#327f77" }
+      "settings": { "foreground": "#bde000bb" }
     },
     {
       "name": "",
       "scope": ["markup.bold string"],
-      "settings": { "foreground": "#327f77" }
+      "settings": { "foreground": "#bde000bb" }
     },
     {
       "name": "",
       "scope": ["markup.bold markup.italic"],
-      "settings": { "foreground": "#327f77" }
+      "settings": { "foreground": "#bde000bb" }
     },
     {
       "name": "",
       "scope": ["markup.italic markup.bold"],
-      "settings": { "foreground": "#327f77" }
+      "settings": { "foreground": "#bde000bb" }
     },
     {
       "name": "",
       "scope": ["markup.quote markup.bold"],
-      "settings": { "foreground": "#327f77" }
+      "settings": { "foreground": "#bde000bb" }
     },
     {
       "name": "",
       "scope": ["markup.bold markup.italic string"],
-      "settings": { "foreground": "#327f77" }
+      "settings": { "foreground": "#bde000bb" }
     },
     {
       "name": "",
       "scope": ["markup.italic markup.bold string"],
-      "settings": { "foreground": "#327f77" }
+      "settings": { "foreground": "#bde000bb" }
     },
     {
       "name": "",
       "scope": ["markup.quote markup.bold string"],
-      "settings": { "foreground": "#327f77" }
+      "settings": { "foreground": "#bde000bb" }
     },
 
     {
