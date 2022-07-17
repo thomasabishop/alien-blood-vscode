@@ -179,7 +179,8 @@
         "markup.quote markup.bold",
         "markup.bold markup.italic string",
         "markup.italic markup.bold string",
-        "markup.quote markup.bold string"
+        "markup.quote markup.bold string",
+        "string.other.link.title.markdown"
       ],
       "settings": {
         "fontStyle": "bold"

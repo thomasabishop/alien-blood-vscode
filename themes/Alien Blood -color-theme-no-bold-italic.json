@@ -166,7 +166,7 @@
   "tokenColors": [
     {
       "name": "Bold",
-      "scope": ["markup.bold"],
+      "scope": ["markup.bold", "string.other.link.title.markdown"],
       "settings": {
         "fontStyle": "bold"
       }
