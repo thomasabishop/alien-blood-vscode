@@ -165,6 +165,20 @@
   },
   "tokenColors": [
     {
+      "name": "Bold",
+      "scope": ["markup.bold"],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Italic",
+      "scope": ["markup.italic"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "",
       "scope": ["storage.type.function"],
       "settings": { "foreground": "#2f7e25" }

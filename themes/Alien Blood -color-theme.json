@@ -171,6 +171,7 @@
         "entity.name.type.class",
         "entity.name.section.markdown",
         "markdown.heading",
+        "markup.bold",
         "markup.heading | markup.heading entity.name",
         "markup.heading.markdown punctuation.definition.heading.markdown",
         "markup.bold markup.italic",
@@ -190,7 +191,6 @@
         "storage.type.function",
         "storage.type.class",
         "markup.italic",
-        "markup.bold",
         "markup.bold string",
         "comment",
         "punctuation.definition.comment"
