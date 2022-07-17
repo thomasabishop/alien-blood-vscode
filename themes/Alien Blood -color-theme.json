@@ -760,7 +760,7 @@
     {
       "name": "",
       "scope": ["markup.underline"],
-      "settings": { "foreground": "#18e000" }
+      "settings": { "foreground": "#717f24" }
     },
     {
       "name": "",
@@ -770,7 +770,7 @@
     {
       "name": "",
       "scope": ["string.other.link.title.markdown"],
-      "settings": { "foreground": "#18e000" }
+      "settings": { "foreground": "#717f24" }
     },
     {
       "name": "",
