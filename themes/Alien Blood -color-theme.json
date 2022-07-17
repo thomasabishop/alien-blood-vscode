@@ -684,37 +684,37 @@
     {
       "name": "",
       "scope": ["markup.bold string"],
-      "settings": { "foreground": "#e08009" }
+      "settings": { "foreground": "#327f77" }
     },
     {
       "name": "",
       "scope": ["markup.bold markup.italic"],
-      "settings": { "foreground": "#e08009" }
+      "settings": { "foreground": "#327f77" }
     },
     {
       "name": "",
       "scope": ["markup.italic markup.bold"],
-      "settings": { "foreground": "#e08009" }
+      "settings": { "foreground": "#327f77" }
     },
     {
       "name": "",
       "scope": ["markup.quote markup.bold"],
-      "settings": { "foreground": "#e08009" }
+      "settings": { "foreground": "#327f77" }
     },
     {
       "name": "",
       "scope": ["markup.bold markup.italic string"],
-      "settings": { "foreground": "#e08009" }
+      "settings": { "foreground": "#327f77" }
     },
     {
       "name": "",
       "scope": ["markup.italic markup.bold string"],
-      "settings": { "foreground": "#e08009" }
+      "settings": { "foreground": "#327f77" }
     },
     {
       "name": "",
       "scope": ["markup.quote markup.bold string"],
-      "settings": { "foreground": "#e08009" }
+      "settings": { "foreground": "#327f77" }
     },
 
     {
