@@ -760,7 +760,7 @@
     {
       "name": "",
       "scope": ["markup.underline"],
-      "settings": { "foreground": "#717f24" }
+      "settings": { "foreground": "#2f7e25" }
     },
     {
       "name": "",
@@ -770,7 +770,7 @@
     {
       "name": "",
       "scope": ["string.other.link.title.markdown"],
-      "settings": { "foreground": "#717f24" }
+      "settings": { "foreground": "#2f7e25" }
     },
     {
       "name": "",
@@ -786,6 +786,11 @@
       "name": "",
       "scope": ["entity.other.inherited-class.ts"],
       "settings": { "foreground": "#7f2b27" }
+    },
+    {
+      "name": "",
+      "scope": ["markup.inline.raw.string.markdown"],
+      "settings": { "foreground": "#717f24" }
     }
   ]
 }
