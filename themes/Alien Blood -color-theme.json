@@ -785,8 +785,13 @@
     },
     {
       "name": "",
-      "scope": ["entity.other.inherited-class.ts"],
+      "scope": ["entity.other.inherited-class.ts", "markup.quote.markdown"],
       "settings": { "foreground": "#7f2b27" }
+    },
+    {
+      "name": "",
+      "scope": ["markup.quote.markdown"],
+      "settings": { "foreground": "#73fa91bb" }
     },
     {
       "name": "",

@@ -756,6 +756,11 @@
       "name": "",
       "scope": ["markup.inline.raw.string.markdown"],
       "settings": { "foreground": "#717f24" }
+    },
+    {
+      "name": "",
+      "scope": ["markup.quote.markdown"],
+      "settings": { "foreground": "#73fa91bb" }
     }
   ]
 }
