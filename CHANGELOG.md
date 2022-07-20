@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.3.0] - 2022-07-17
+### Added
+- Support for TSX
 ## [1.2.0] - 2022-07-17
 
 ## Changed 
