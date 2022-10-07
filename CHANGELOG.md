@@ -1,20 +1,39 @@
 # Changelog
 
-## [1.3.0] - 2022-07-17
+## [1.4.0] - 2022-10-07
+
 ### Added
+
+- Dedicated colours for imports/exports
+- Dedicated colours for getters/setters in TypeScript
+
+### Changed
+
+- Async keyword to yellow
+
+## [1.3.0] - 2022-07-17
+
+### Added
+
 - Support for TSX
+
 ## [1.2.0] - 2022-07-17
 
-## Changed 
+## Changed
+
 - Numerous improvements to markdown colour tokens
 - Make filename Git modified/untracked colours more muted
+
 ## [1.0.1] - 2022-06-22
 
 ### Added
+
 - Menu horizontal separator now theme colour
 - Menubar foreground color no longer #fff and now theme white
 - No folder status bar same as default colours.
+
 ### Changed
+
 - Terminal background same colour as main editor
 - Remove border from status bar
 
