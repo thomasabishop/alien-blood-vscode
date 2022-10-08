@@ -15,9 +15,17 @@
 
 ![TypeScript](images/screenshots/typescript.png)
 
-**React JavaScript**
+**JavaScript**
+
+![JavaScript](images/screenshots/javascript.png)
+
+**JSX**
 
 ![](images/screenshots/react.png)
+
+**Python**
+
+![](images/screenshots/python.png)
 
 **Markdown**
 
