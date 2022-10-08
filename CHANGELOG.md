@@ -6,6 +6,7 @@
 
 - Dedicated colours for imports/exports
 - Dedicated colours for getters/setters in TypeScript
+- Improved Python coverage
 
 ### Changed
 

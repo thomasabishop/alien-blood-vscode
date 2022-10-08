@@ -819,7 +819,13 @@
     },
     {
       "name": "",
-      "scope": ["storage.type.class.ts", "storage.type.function.ts"],
+      "scope": [
+        "storage.type.class.ts",
+        "storage.type.function.ts",
+        "storage.type.function.js",
+        "storage.type.function.python",
+        "storage.type.class.python"
+      ],
       "settings": { "fontStyle": "bold" }
     },
     {
@@ -847,9 +853,46 @@
         "storage.modifier.async.ts",
         "storage.modifier.async.js",
         "storage.modifier.async.jsx",
-        "storage.modifier.async.tsx"
+        "storage.modifier.async.tsx",
+        "storage.type.function.async.python"
       ],
       "settings": { "foreground": "#bde000" }
+    },
+    {
+      "name": "",
+      "scope": ["keyword.control.import.python"],
+      "settings": { "foreground": "#73fa9199" }
+    },
+    {
+      "name": "",
+      "scope": ["source.python", "meta.function-call.arguments.python"],
+      "settings": { "foreground": "#327f77" }
+    },
+    {
+      "name": "",
+      "scope": ["support.function.builtin.python", "meta.function-call.python"],
+      "settings": { "foreground": "#717f24" }
+    },
+
+    {
+      "name": "",
+      "scope": ["meta.attribute.python"],
+      "settings": { "foreground": "#2f6a7f" }
+    },
+    {
+      "name": "",
+      "scope": ["constant.numeric.dec.python", "constant.numeric.float.python"],
+      "settings": { "foreground": "#00e0c4" }
+    },
+    {
+      "name": "",
+      "scope": ["constant.language.python"],
+      "settings": { "foreground": "#18e000" }
+    },
+    {
+      "name": "",
+      "scope": ["string.quoted.docstring.multi.python"],
+      "settings": { "foreground": "#5a8055ad", "fontStyle": "italic" }
     }
   ]
 }
