@@ -1,5 +1,12 @@
 # Changelog
 
+
+## [1.5.0] - 2022-11-12
+
+### Added
+- Made outline borders consistent
+- Active tab and treeview items now background highlight
+
 ## [1.4.0] - 2022-10-07
 
 ### Added
