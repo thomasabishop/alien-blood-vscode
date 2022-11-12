@@ -9,24 +9,5 @@
 
 ![](images/screenshots/whole-ui.png)
 
-## Screenshots
-
-**TypeScript**
 
 ![TypeScript](images/screenshots/typescript.png)
-
-**JavaScript**
-
-![JavaScript](images/screenshots/javascript.png)
-
-**JSX**
-
-![](images/screenshots/react.png)
-
-**Python**
-
-![](images/screenshots/python.png)
-
-**Markdown**
-
-![](images/screenshots/markdown.png)
