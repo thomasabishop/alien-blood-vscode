@@ -1,9 +1,21 @@
 # Changelog
 
+## [1.6.0] - 2022-12-15
+
+### Added
+
+- Better colour individuation of Bash tokens
+
+### Fixed
+
+- Selection background is now uniformly green without default blue showing up in places
+- Icon colours now uniform throughout UI
+- Error text colours now uniform throughout UI
 
 ## [1.5.0] - 2022-11-12
 
 ### Added
+
 - Made outline borders consistent
 - Active tab and treeview items now background highlight
 

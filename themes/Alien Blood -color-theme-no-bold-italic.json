@@ -167,7 +167,10 @@
     "minimapGutter.deletedBackground": "#3c4812",
     "diffEditor.insertedTextBackground": "#18e00010",
     "diffEditor.removedTextBackground": "#7f2b2735",
-    "diffEditor.diagonalFill": "#647d7550"
+    "diffEditor.diagonalFill": "#647d7550",
+    "selection.background": "#18e00020",
+    "errorForeground": "#7f2b27",
+    "icon.foreground": "#647d75"
   },
   "tokenColors": [
     {
@@ -852,6 +855,22 @@
       "name": "",
       "scope": ["string.quoted.docstring.multi.python"],
       "settings": { "foreground": "#5a8055ad" }
+    },
+    {
+      "name": "",
+      "scope": ["constant.other.option"],
+      "settings": { "foreground": "#47587f" }
+    },
+    {
+      "name": "",
+      "scope": ["keyword.operator.redirect.shell"],
+      "settings": { "foreground": "#73fa9190" }
+    },
+
+    {
+      "name": "",
+      "scope": ["constant.numeric.integer.shell"],
+      "settings": { "foreground": "#00e0c4" }
     }
   ]
 }
