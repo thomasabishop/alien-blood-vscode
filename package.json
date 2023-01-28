@@ -3,7 +3,7 @@
   "displayName": "Alien Blood",
   "description": "A muted green dark-theme for VS Code.",
   "version": "1.6.0",
-  "publisher": "ThomasBishop",
+  "publisher": "Thomas Bishop",
   "icon": "images/icon.png",
   "license": "MIT",
   "galleryBanner": {
@@ -30,12 +30,12 @@
       {
         "label": "Alien Blood ",
         "uiTheme": "vs-dark",
-        "path": "./themes/Alien Blood -color-theme.json"
+        "path": "./themes/alien-blood.json"
       },
       {
         "label": "Alien Blood - No bold or italics",
         "uiTheme": "vs-dark",
-        "path": "./themes/Alien Blood -color-theme-no-bold-italic.json"
+        "path": "./themes/alien-blood_no-bold-italics.json"
       }
     ]
   }
