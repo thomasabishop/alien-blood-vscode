@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.7.1] - 2023-01-29
+
+## Fixed
+
+- Debug status bar colours
+
 ## [1.7.0] - 2023-01-29
 
 ### Added
