@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.7.0] - 2023-01-29
+
+### Added
+
+- Styled 'Peek View'
+- Made badge colour green globally
+
+### Changed
+
+- Button colour
+- No longer supporting variant without bold or italics
+
 ## [1.6.0] - 2022-12-15
 
 ### Added

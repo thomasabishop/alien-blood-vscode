@@ -2,7 +2,7 @@
   "name": "alien-blood",
   "displayName": "Alien Blood",
   "description": "A muted green dark-theme for VS Code.",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "publisher": "Thomas Bishop",
   "icon": "images/icon.png",
   "license": "MIT",
@@ -31,11 +31,6 @@
         "label": "Alien Blood ",
         "uiTheme": "vs-dark",
         "path": "./themes/alien-blood.json"
-      },
-      {
-        "label": "Alien Blood - No bold or italics",
-        "uiTheme": "vs-dark",
-        "path": "./themes/alien-blood_no-bold-italics.json"
       }
     ]
   }
