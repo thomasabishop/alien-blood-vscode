@@ -9,7 +9,9 @@
     "activityBar.inactiveForeground": "#1d4125",
     "activityBarBadge.background": "#2f7e25",
     "activityBarBadge.foreground": "#fff",
-    "button.background": "#1d4125",
+    "badge.background": "#2f7e25",
+    "button.background": "#0f1610",
+    "button.border": "#1d4125",
     "button.foreground": "#637d75",
     "debugConsole.errorForeground": "#7f2b27",
     "debugConsole.infoForeground": "#2f7e25",
@@ -114,6 +116,20 @@
     "panelSectionHeader.foreground": "#637d75",
     "panelTitle.activeBorder": "#1d4125",
     "panelTitle.activeForeground": "#637d75",
+    "peekView.border": "#2f7e25",
+    "peekViewEditor.background": "#000e07",
+    "peekViewEditor.matchHighlightBackground": "#1d4125",
+    "peekViewResult.background": "#000e07",
+    "peekViewResult.fileForeground": "#2f7e25",
+    "peekViewResult.lineForeground": "#637d75",
+    "peekViewResult.matchHighlightBackground": "#1d4125",
+    "peekViewResult.selectionBackground": "#0f1610",
+    "peekViewTitle.background": "#000e07",
+    "peekViewTitleDescription.foreground": "#2f7e25",
+    "peekViewTitleLabel.foreground": "#18e000",
+    "problemsErrorIcon.foreground": "#7f2b27",
+    "problemsInfoIcon.foreground": "#2f6a7f",
+    "problemsWarningIcon.foreground": "#717f24",
     "scrollbarSlider.activeBackground": "#717f24bb",
     "scrollbarSlider.background": "#11261698",
     "scrollbarSlider.hoverBackground": "#1d4125bb",
@@ -466,7 +482,8 @@
     {
       "name": "#73fa9190",
       "scope": [
-        "keyword.operator.redirect.shell"
+        "keyword.operator.redirect.shell",
+        "debugConsole.infoForeground"
       ],
       "settings": {
         "foreground": "#73fa9190"

@@ -9,8 +9,9 @@
     "activityBar.inactiveForeground": "#1d4125",
     "activityBarBadge.background": "#2f7e25",
     "activityBarBadge.foreground": "#fff",
-    "button.background": "#1d4125",
+    "button.background": "#0f1610",
     "button.foreground": "#637d75",
+    "button.border": "#1d4125",
     "debugConsole.errorForeground": "#7f2b27",
     "debugConsole.infoForeground": "#2f7e25",
     "debugConsole.sourceForeground": "#647d75",
@@ -170,7 +171,22 @@
     "titleBar.activeForeground": "#637d75",
     "titleBar.border": "#1d4125",
     "titleBar.inactiveBackground": "#0f1610",
-    "widget.shadow": "#000e07"
+    "widget.shadow": "#000e07",
+    "peekView.border": "#2f7e25",
+    "peekViewEditor.background": "#000e07",
+    "peekViewTitle.background": "#000e07",
+    "peekViewResult.background": "#000e07",
+    "peekViewTitleDescription.foreground": "#2f7e25",
+    "peekViewTitleLabel.foreground": "#18e000",
+    "peekViewEditor.matchHighlightBackground": "#1d4125",
+    "peekViewResult.matchHighlightBackground": "#1d4125",
+    "peekViewResult.selectionBackground": "#0f1610",
+    "peekViewResult.fileForeground": "#2f7e25",
+    "peekViewResult.lineForeground": "#637d75",
+    "problemsErrorIcon.foreground": "#7f2b27",
+    "problemsWarningIcon.foreground": "#717f24",
+    "problemsInfoIcon.foreground": "#2f6a7f",
+    "badge.background": "#2f7e25"
   },
   "tokenColors": [
     {
@@ -206,18 +222,14 @@
     },
     {
       "name": "#18e000bb",
-      "scope": [
-        "entity.name.section.markdown"
-      ],
+      "scope": ["entity.name.section.markdown"],
       "settings": {
         "foreground": "#18e000bb"
       }
     },
     {
       "name": "#18e000dd",
-      "scope": [
-        "markdown.heading"
-      ],
+      "scope": ["markdown.heading"],
       "settings": {
         "foreground": "#18e000dd"
       }
@@ -396,10 +408,7 @@
     },
     {
       "name": "#00e0c4bb",
-      "scope": [
-        "markup.underline",
-        "string.other.link.title.markdown"
-      ],
+      "scope": ["markup.underline", "string.other.link.title.markdown"],
       "settings": {
         "foreground": "#00e0c4bb"
       }
@@ -417,18 +426,14 @@
     },
     {
       "name": "#73fa91bb",
-      "scope": [
-        "markup.quote.markdown"
-      ],
+      "scope": ["markup.quote.markdown"],
       "settings": {
         "foreground": "#73fa91bb"
       }
     },
     {
       "name": "#e08009bb",
-      "scope": [
-        "markup.inline.raw.string.markdown"
-      ],
+      "scope": ["markup.inline.raw.string.markdown"],
       "settings": {
         "foreground": "#e08009bb"
       }
@@ -466,7 +471,8 @@
     {
       "name": "#73fa9190",
       "scope": [
-        "keyword.operator.redirect.shell"
+        "keyword.operator.redirect.shell",
+        "debugConsole.infoForeground"
       ],
       "settings": {
         "foreground": "#73fa9190"
@@ -510,21 +516,14 @@
     },
     {
       "name": "Underline",
-      "scope": [
-        "*url*",
-        "*link*",
-        "*uri*",
-        "markup.underline"
-      ],
+      "scope": ["*url*", "*link*", "*uri*", "markup.underline"],
       "settings": {
         "fontStyle": "underline"
       }
     },
     {
       "name": "Overrule italic",
-      "scope": [
-        "storage.type.function.arrow"
-      ],
+      "scope": ["storage.type.function.arrow"],
       "settings": {
         "fontStyle": ""
       }
