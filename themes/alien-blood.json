@@ -13,6 +13,8 @@
     "button.background": "#0f1610",
     "button.border": "#1d4125",
     "button.foreground": "#637d75",
+    "button.secondaryBackground": "#000e07",
+    "button.secondaryForeground": "#637d75",
     "debugConsole.errorForeground": "#7f2b27",
     "debugConsole.infoForeground": "#2f7e25",
     "debugConsole.sourceForeground": "#647d75",
@@ -109,6 +111,11 @@
     "minimapGutter.addedBackground": "#e08009",
     "minimapGutter.deletedBackground": "#3c4812",
     "minimapGutter.modifiedBackground": "#73fa9190",
+    "notificationLink.foreground": "#2f7e25",
+    "notificationToast.border": "#1d4125",
+    "notificationsErrorIcon.foreground": "#7f2b27",
+    "notificationsInfoIcon.foreground": "#2f6a7f",
+    "notificationsWarningIcon.foreground": "#717f24",
     "panel.background": "#000e07",
     "panel.border": "#1d4125",
     "panelSection.border": "#1d4125",
@@ -214,7 +221,17 @@
         "markup.deleted.git_gutter",
         "source.json meta.structure.dictionary.json support.type.property-name.json",
         "markup.heading | markup.heading entity.name",
-        "markup.heading.markdown punctuation.definition.heading.markdown"
+        "markup.heading.markdown punctuation.definition.heading.markdown",
+        "storage.modifier.async",
+        "storage.modifier.async.ts",
+        "support.type.object.module.js",
+        "storage.type.property.ts",
+        "constant.language.python",
+        "storage.modifier.async.ts",
+        "storage.modifier.async.js",
+        "storage.modifier.async.jsx",
+        "storage.modifier.async.tsx",
+        "storage.type.function.async.python"
       ],
       "settings": {
         "foreground": "#2f7e25"
@@ -314,7 +331,9 @@
         "meta.jsx.children.tsx",
         "text.html.markdown",
         "punctuation.definition.list_item.markdown",
-        "meta.function-call.js"
+        "meta.function-call.js",
+        "variable.language",
+        "entity.other.inherited-class.ts"
       ],
       "settings": {
         "foreground": "#637d75"
@@ -345,26 +364,10 @@
       "scope": [
         "invalid",
         "invalid.illegal",
-        "variable.language",
-        "entity.other.inherited-class.ts",
         "markup.quote.markdown"
       ],
       "settings": {
         "foreground": "#7f2b27"
-      }
-    },
-    {
-      "name": "#18e000",
-      "scope": [
-        "storage.modifier.async",
-        "storage.modifier.async.ts",
-        "support.type.object.module.js",
-        "constant.language.boolean",
-        "storage.type.property.ts",
-        "constant.language.python"
-      ],
-      "settings": {
-        "foreground": "#18e000"
       }
     },
     {
@@ -392,22 +395,15 @@
         "variable.other.property.ts",
         "support.variable.property.js",
         "support.variable.property.ts",
-        "meta.attribute.python"
-      ],
-      "settings": {
-        "foreground": "#2f6a7f"
-      }
-    },
-    {
-      "name": "#00e0c4",
-      "scope": [
+        "meta.attribute.python",
         "constant.numeric.decimal",
         "constant.numeric.dec.python",
         "constant.numeric.float.python",
-        "constant.numeric.integer.shell"
+        "constant.numeric.integer.shell",
+        "constant.language.boolean"
       ],
       "settings": {
-        "foreground": "#00e0c4"
+        "foreground": "#2f6a7f"
       }
     },
     {
@@ -464,19 +460,6 @@
       ],
       "settings": {
         "foreground": "#73fa9199"
-      }
-    },
-    {
-      "name": "#bde000",
-      "scope": [
-        "storage.modifier.async.ts",
-        "storage.modifier.async.js",
-        "storage.modifier.async.jsx",
-        "storage.modifier.async.tsx",
-        "storage.type.function.async.python"
-      ],
-      "settings": {
-        "foreground": "#bde000"
       }
     },
     {

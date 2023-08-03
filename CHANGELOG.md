@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.7.2] - 2023-06-02
+
+### Added
+
+- UI: Styled secondary button
+- UI: Style notification toast icon and link colours
+
+## Changed
+
+- Syntax: async keyword now default green
+- Syntax: booleans and ints to more muted colour
+- Syntax: `this` keyword to white
+
 ## [1.7.1] - 2023-01-29
 
 ## Fixed
