@@ -331,9 +331,7 @@
         "meta.jsx.children.tsx",
         "text.html.markdown",
         "punctuation.definition.list_item.markdown",
-        "meta.function-call.js",
-        "variable.language",
-        "entity.other.inherited-class.ts"
+        "meta.function-call.js"
       ],
       "settings": {
         "foreground": "#637d75"
@@ -502,7 +500,9 @@
         "markup.italic",
         "markup.bold string",
         "comment",
-        "punctuation.definition.comment"
+        "punctuation.definition.comment",
+        "variable.language",
+        "entity.other.inherited-class.ts"
       ],
       "settings": {
         "fontStyle": "italic"

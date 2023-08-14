@@ -1,6 +1,12 @@
 # Changelog
 
-## [1.7.2] - 2023-06-02
+## [1.7.3] - 2023-08-14
+
+## Changed
+
+- Change `this` keyword to green-blue, make italic
+
+## [1.7.2] - 2023-08-02
 
 ### Added
 
